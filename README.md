@@ -10,11 +10,14 @@
 6. Hadoop (Almacenamiento Distribuido)
 7. Hive (SQL)
 8. Spark 
-9. Pyspark
-10. Databricks
-11. Jenkins (CI/CD)
-12. Apache Airflow (Orquestacion)
-13. SSH (Conexion Remota)
+9. Mongo DB (Base de Datos no Relacional)
+    - MongoDB Local
+    - MongoDB Atlas
+10. Pyspark
+11. Databricks
+12. Jenkins (CI/CD)
+13. Apache Airflow (Orquestacion)
+14. SSH (Conexion Remota)
 
 ## Metodologias
 
